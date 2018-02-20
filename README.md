@@ -41,5 +41,5 @@ OGOOPTICIANCOMPANYL
 GOOPTICIANCOMPANYLO
 OOPTICIANCOMPANYLOG
 
-(return iterated sentence)
+(return iterated sentence oryginally in new line)
 
